@@ -1,5 +1,3 @@
-# Booking.com Database Reconstruction – SQL Project
-
 ## Overview
 
 This repository contains a series of SQL scripts developed as part of a database reverse engineering project completed in late 2024. The goal was to recreate a simplified version of the **Booking.com** database structure based on an entity relationship diagram created during the planning phase.
