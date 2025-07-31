@@ -2,7 +2,7 @@
 
 This repository contains a series of SQL scripts developed as part of a database reverse engineering project completed in late 2024. The goal was to recreate a simplified version of the **Booking.com** database structure based on an entity relationship diagram created during the planning phase.
 
-Before any code was written, normalisation techniques were applied to the original conceptual design. This ensured the elimination of redundancy and the proper separation of data into related tables, which is reflected in the current structure of the database — composed of multiple entities connected through primary and foreign key relationships. Hence, these relationships were predefined.
+Before any code was written, normalisation techniques were applied to the original conceptual design. This ensured the elimination of redundancy and the proper separation of data into related tables, which is reflected in the current structure of the database, composed of multiple entities connected through primary and foreign key relationships. Hence, these relationships were predefined.
 
 ## Contents
 
